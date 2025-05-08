@@ -1,0 +1,6 @@
+
+Large language models (LLMs) are increasingly deployed across domains where safety and behavioral fidelity are critical. Current red teaming approaches rely on prompt trickery or adversarial phrasing, which fail to account for the vast spectrum of human cognitive variation.
+
+This paper introduces a biomimetic red teaming protocol that simulates five cognitive profiles—ADHD, Amnesia, OCD, Schizophrenia, and Split-brain Syndrome—to evaluate LLM robustness under conditions of semantic instability, memory loss, and dissociation. We test a Hugging Face-hosted LLM on 57 prompt-profile combinations, manually annotate for hallucinations, contradictions, coherence, and other markers, and compare against auto-tagged baselines. Results reveal that certain profiles (notably Schizophrenia and Split-brain) are more likely to induce guardrail bypass or semantic breakdown.
+
+This work presents a scalable, neuro-inspired framework for adversarial LLM evaluation, and serves as a replicable template for AI behavior benchmarking in cognitively diverse settings.

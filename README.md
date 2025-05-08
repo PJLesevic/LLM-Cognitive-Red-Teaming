@@ -18,7 +18,7 @@ This repository contains all materials related to a novel experiment in cognitiv
 
 ## Citation
 ```
-Paul J. Lesevic. (2025). A Novel Biomimetic Approach to Red Teaming A.I. Models. GitHub + Hugging Face.
+Paul J. Lesevic, ChatGPT-4o. (2025). A Novel Biomimetic Approach to Red Teaming A.I. Models. GitHub + Hugging Face.
 ```
 
 ## License

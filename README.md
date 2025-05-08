@@ -14,7 +14,7 @@ This repository contains all materials related to a novel experiment in cognitiv
 - `data/`: CSVs + heatmaps
 - `scripts/`: Python tools for tagging and reporting
 - `docs/`: Word report and appendix with human justifications
-- `figures/`: Chart assets
+
 
 ## Citation
 ```
